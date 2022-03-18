@@ -63,8 +63,12 @@ cd lightningRelatedListWithFilter/package
 3. Ant deploy the package
 ```
  
+ 
 ```
-
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 
 ## How to use the related list on your lightning record page
 1. Navigate to the parent object record page and click edit page
